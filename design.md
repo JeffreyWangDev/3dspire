@@ -25,4 +25,5 @@ Update one.one:
 - Changed the design from a side mounted to top mount
 - Changed the hotend+extruder
 - cadded more stuff
+- changed size from 180x180 to 250x250
 ![image](https://github.com/user-attachments/assets/6f468370-7b79-4f1d-bccf-cf5dfd8e3456)
