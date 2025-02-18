@@ -33,3 +33,18 @@ Update one.two:
 5 hours
 - Did the motion system
 - ![image](https://github.com/user-attachments/assets/6a8ee717-8362-4d96-96f9-5bda1af1594a)
+
+
+Update two:
+30 hours
+- Done with full printer!
+- ![image](https://github.com/user-attachments/assets/4b563120-5f27-4398-9d90-98f349dc67e9)
+- Currently over budget, but will look too see what parts I can cut
+
+Update three:
+6 hours
+- Made another printer cause I was bored!
+- The goal is sub 150
+- ![Uploading image.png…]()
+- https://cad.onshape.com/documents/016f6b053358088cc0f7b46e/w/056971c4b959deec5e346e71/e/1a1ffddae2dcee2c58f6f72d
+- Currently 155 w shipping 
