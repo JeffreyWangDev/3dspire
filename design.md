@@ -38,13 +38,13 @@ Update one.two:
 Update two:
 30 hours
 - Done with full printer!
-- ![image](https://github.com/user-attachments/assets/4b563120-5f27-4398-9d90-98f349dc67e9)
+- ![image](https://github.com/user-attachments/assets/0f9f0112-19b7-4722-81c3-5b9db936d221)
 - Currently over budget, but will look too see what parts I can cut
 
 Update three:
 6 hours
 - Made another printer cause I was bored!
 - The goal is sub 150
-- ![Uploading image.png…]()
+- ![image](https://github.com/user-attachments/assets/dc28c05b-d968-497b-9309-ef7e41e9e3f6)
 - https://cad.onshape.com/documents/016f6b053358088cc0f7b46e/w/056971c4b959deec5e346e71/e/1a1ffddae2dcee2c58f6f72d
 - Currently 155 w shipping 
